@@ -1,22 +1,14 @@
-<h1>Hi, I'm Carl! <br/><a href="https://www.linkedin.com/in/CarlFrayer/">Cybersecurity Professional</a></h1>
+<h1>Hi, I'm Carl! </h1>
 
-<h2>👨‍💻 Projects:</h2>
+<h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Project Category</b>
-  - [PROJECT NAME](LINK)
-- <b>Project Category (DETAILS)</b>
-  - [PROJECT NAME](LINK) <b><i>(WARNING)</b></i>
-- <b>Project Category</b>
-  - [PROJECT NAME](LINK)
-  - [PROJECT NAME (DETAIL)](LINK)
-  - [PROJECT NAME](LINK)
-  - [FIM (File Integrity Monitor)](LINK)
-- <b>Project Category</b>
-  - [Project Name](link)
-  - [Project Name](link)
-  - [Project Name](link)
-- <b>Project Category</b>
-  - [Name (Description)](link)
+  - [PROJECT](LINKS)
+
+<h2> 📄 Certifications:</h2>
+
+   - [Security+](https://imgur.com/msJzRd9) Earned: 10/08/2024
+
 
 <h2> 🤳 Connect with me:</h2>
 
