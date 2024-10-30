@@ -1,4 +1,6 @@
-<h1> :coffee: Carl Frayer </h1>
+<h1> :coffee: Carl Frayer </h1> 
+
+```Detail Oriented IT Professional```
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
