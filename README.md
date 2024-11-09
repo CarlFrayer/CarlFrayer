@@ -4,7 +4,6 @@
 
 <h2>👨‍💻 Technical Projects:</h2>
 
-- <b>Project Category</b>
   - [Raspberry Pi NAS using OMV](https://github.com/CarlFrayer/NASPi)
 
 <h2> 📄 Certifications:</h2>
