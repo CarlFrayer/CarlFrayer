@@ -2,10 +2,10 @@
 
 ```Detail Oriented IT Professional```
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2>👨‍💻 Technical Projects:</h2>
 
 - <b>Project Category</b>
-  - [PROJECT](LINKS)
+  - [Raspberry Pi NAS using OMV](https://github.com/CarlFrayer/NASPi)
 
 <h2> 📄 Certifications:</h2>
 
