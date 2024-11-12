@@ -19,13 +19,14 @@ Here I will be hosting my projects, IT related education, and certifications in 
   - A SOC/Threat Analysis/SIEM Homelab utilizing Azure virtualization, Microsoft Defender, Docker, and MISP
 
 
+<!--
 
 <h2> 🤳 Connect with me:</h2>
-
-[<img align="left" alt="CarlFrayer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
+<img align="left" alt="CarlFrayer | LinkedIn" width="22px" src="http://www.w3.org/2000/svg" />[linkedin]
 
 [linkedin]: https://linkedin.com/in/carlfrayer
+
+--!>
 
 
 
