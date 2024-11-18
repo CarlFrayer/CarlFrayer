@@ -17,7 +17,7 @@ Here I will be hosting my projects, IT related education, and certifications in 
 <h2> 🔭 I am currently working on:</h2>
 
   - A SOC/Threat Analysis/SIEM Homelab utilizing Azure virtualization, Microsoft Defender, Docker, and MISP
-
+  - The Google Cybersecurity Professional Certification course on Coursera.
 
 <!--
 
